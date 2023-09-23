@@ -4,175 +4,175 @@
             "id": 1,
             "productName": "URBAN LUX HIGH CHAIR",
             "productPrice": 2668.15,
-            "productImage": "../assets/chair.png",
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/chair.png",
             "review": 5
         },
         {
             "id": 2,
             "productName": "MODERN BLACK HANGING LIGHT",
             "productPrice": 1595.6,
-            "productImage": "../assets/hanging.png",
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/hanging.png",
             "review": 4
         },
         {
             "id": 3,
             "productName": "METRO FUSION TABLE",
             "productPrice": 2238.30,
-            "productImage": "../assets/table.png",
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/table.png",
             "review": 5
         },
         {
             "id": 4,
             "productName": "LUMIN DESK LAMP",
             "productPrice": 1477.80,
-            "productImage": "../assets/lumin.png",
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/lumin.png",
             "review": 5
         },
         {
             "id": 5,
             "productName": "TIMELESS EDGE HANGING CLOCK",
             "productPrice": 1071.6,
-            "productImage": "../assets/timeless.png",
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/timeless.png",
             "review": 4
         },
         {
             "id": 6,
             "productName": "ZENITH PENDANT LIGHT",
             "productPrice": 2069.59,
-            "productImage": "../assets/light.png",
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/light.png",
             "review": 3
         }
     ],
     "on-sales": [
         {
             "id": 7,
-            "productName": "URBANde LUX HIGH CHAIR",
-            "productPrice": 2668.15,
-            "productImage": "../assets/chair.png",
-            "review": 1
+            "productName": "SOFA SOFT",
+            "productPrice": 7435.90,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/sofa-soft.png",
+            "review": 5
         },
         {
             "id": 8,
-            "productName": "MODwefERN BLACK HANGING LIGHT",
-            "productPrice": 1595.6,
-            "productImage": "../assets/hanging.png",
-            "review": 2
+            "productName": "GRAY PENDANT LIGHT",
+            "productPrice": 3500.50,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/gray-pendant-light.png",
+            "review": 5
         },
         {
             "id": 9,
-            "productName": "METROfr FUSION TABLE",
+            "productName": "METRO FUSION TABLE",
             "productPrice": 2238.30,
-            "productImage": "../assets/table.png",
-            "review": 1
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/table.png",
+            "review": 5
         },
         {
             "id": 10,
-            "productName": "LUMIN fefDESK LAMP",
-            "productPrice": 1477.80,
-            "productImage": "../assets/lumin.png",
-            "review": 2
+            "productName": "LINE CHANDELIER",
+            "productPrice": 5000.00,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/line-chandelier.png",
+            "review": 4.9
         },
         {
             "id": 11,
-            "productName": "TIMELESS EDGE HANGING CLOCK",
-            "productPrice": 1071.6,
-            "productImage": "../assets/timeless.png",
-            "review": 1
+            "productName": "ROTIN SOFA",
+            "productPrice": 8435.20,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/rotin-sofa.png",
+            "review": 5
         },
         {
             "id": 12,
-            "productName": "ZENITH PENDANT LIGHT",
-            "productPrice": 2069.59,
-            "productImage": "../assets/light.png",
-            "review": 2
+            "productName": "TIMELESS EDGE HANGING CLOCK",
+            "productPrice": 1071.6,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/timeless.png",
+            "review": 4
         }
     ],
     "sofa": [
         {
             "id": 13,
-            "productName": "SOFA LUX HIGH CHAIR",
-            "productPrice": 2668.15,
-            "productImage": "../assets/chair.png",
-            "review": 1
+            "productName": "ANDES 2-SEAT SOFA",
+            "productPrice": 9856.50,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/andes-2-seat-sofa.png",
+            "review": 4.6
         },
         {
             "id": 14,
-            "productName": "SOFA BLACK HANGING LIGHT",
-            "productPrice": 1595.6,
-            "productImage": "../assets/hanging.png",
-            "review": 2
+            "productName": "GATHER WOOD BASE SOFA",
+            "productPrice": 7555.90,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/gather-wood-base-sofa.png",
+            "review": 4.2
         },
         {
             "id": 15,
-            "productName": "SOFA SHERIFF FUSION TABLE",
-            "productPrice": 2238.30,
-            "productImage": "../assets/table.png",
-            "review": 1
+            "productName": "LEATHER SOFA",
+            "productPrice": 4598.25,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/leather-sofa.png",
+            "review": 4.8
         },
         {
             "id": 16,
-            "productName": "SOFA fefDESK LAMP",
-            "productPrice": 1477.80,
-            "productImage": "../assets/lumin.png",
-            "review": 2
+            "productName": "ROTIN SOFA",
+            "productPrice": 8435.20,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/rotin-sofa.png",
+            "review": 5
         },
         {
             "id": 17,
-            "productName": "SOFA EDGE HANGING CLOCK",
-            "productPrice": 1071.6,
-            "productImage": "../assets/timeless.png",
-            "review": 1
+            "productName": "SOFA SOFT",
+            "productPrice": 7435.90,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/sofa-soft.png",
+            "review": 5
         },
         {
             "id": 18,
-            "productName": "SOFA PENDANT LIGHT",
-            "productPrice": 2069.59,
-            "productImage": "../assets/light.png",
-            "review": 2
+            "productName": "STOCKHOLM SILVER SOFA",
+            "productPrice": 6238.50,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/stockholm-slver-sofa-bed.png",
+            "review": 4.22
         }
     ],
     "hanging": [
         {
             "id": 19,
-            "productName": "HANGING LUX HIGH CHAIR",
-            "productPrice": 2668.15,
-            "productImage": "https://github.com/olatunji-20/furnitur-api/blob/94d5b6bd7d2721641e3e2c13585c8fcc8281e6e7/brown-pendant-lamp.png?raw=true",
-            "review": 1
+            "productName": "BROWN PENDANT LAMP",
+            "productPrice": 4546.40,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/brown-pendant-lamp.png",
+            "review": 5
         },
         {
             "id": 20,
-            "productName": "HANGING BLACK HANGING LIGHT",
-            "productPrice": 1595.6,
-            "productImage": "../assets/hanging.png",
-            "review": 2
+            "productName": "LIGHTED EDISON BULB",
+            "productPrice": 3874.28,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/lighted-edison-bulb.png",
+            "review": 4.4
         },
         {
             "id": 21,
-            "productName": "HANGING  FUSION TABLE",
-            "productPrice": 2238.30,
-            "productImage": "../assets/table.png",
-            "review": 1
+            "productName": "LINE CHANDELIER",
+            "productPrice": 5000.00,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/line-chandelier.png",
+            "review": 4.9
         },
         {
             "id": 22,
-            "productName": "HANGING fefDESK LAMP",
-            "productPrice": 1477.80,
-            "productImage": "../assets/lumin.png",
-            "review": 2
+            "productName": "LIT PENDANT LIGHT",
+            "productPrice": 3254.60,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/lit-pendant-light.png",
+            "review": 4.7
         },
         {
             "id": 23,
-            "productName": "HANGING EDGE HANGING CLOCK",
-            "productPrice": 1071.6,
-            "productImage": "../assets/timeless.png",
-            "review": 1
+            "productName": "SHALLOW PENDANT LIGHT",
+            "productPrice": 3978.40,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/shallow-pendant-light.png",
+            "review": 4.6
         },
         {
             "id": 24,
-            "productName": "HANGING PENDANT LIGHT",
-            "productPrice": 2069.59,
-            "productImage": "../assets/light.png",
-            "review": 2
+            "productName": "GRAY PENDANT LIGHT",
+            "productPrice": 3500.50,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/gray-pendant-light.png",
+            "review": 5
         }
     ],
     "shipping-services" : [
