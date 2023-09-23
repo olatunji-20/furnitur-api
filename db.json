@@ -136,7 +136,7 @@
             "id": 19,
             "productName": "HANGING LUX HIGH CHAIR",
             "productPrice": 2668.15,
-            "productImage": "../assets/chair.png",
+            "productImage": "https://github.com/olatunji-20/furnitur-api/blob/94d5b6bd7d2721641e3e2c13585c8fcc8281e6e7/brown-pendant-lamp.png?raw=true",
             "review": 1
         },
         {
