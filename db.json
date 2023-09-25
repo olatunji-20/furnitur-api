@@ -1,7 +1,7 @@
 {
     "products": [
         {
-            "id": 1,
+            "id": 3,
             "productName": "URBAN LUX HIGH CHAIR",
             "productPrice": 2668.15,
             "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/chair.png",
