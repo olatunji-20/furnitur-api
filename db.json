@@ -1,7 +1,7 @@
 {
     "products": [
         {
-            "id": 3,
+            "id": 1,
             "productName": "URBAN LUX HIGH CHAIR",
             "productPrice": 2668.15,
             "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/chair.png",
@@ -46,9 +46,9 @@
     "on-sales": [
         {
             "id": 7,
-            "productName": "SOFA SOFT",
-            "productPrice": 7435.90,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/sofa-soft.png",
+            "productName": "METRO FUSION TABLE",
+            "productPrice": 2238.30,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/table.png",
             "review": 5
         },
         {
@@ -60,9 +60,9 @@
         },
         {
             "id": 9,
-            "productName": "METRO FUSION TABLE",
-            "productPrice": 2238.30,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/table.png",
+            "productName": "SOFA SOFT",
+            "productPrice": 7435.90,
+            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/sofa-soft.png",
             "review": 5
         },
         {
