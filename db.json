@@ -4,42 +4,42 @@
             "id": 1,
             "productName": "URBAN LUX HIGH CHAIR",
             "productPrice": 2668.15,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/chair.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/chair.png",
             "review": 5
         },
         {
             "id": 2,
             "productName": "MODERN BLACK HANGING LIGHT",
             "productPrice": 1595.6,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/hanging.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/hanging.png",
             "review": 4
         },
         {
             "id": 3,
             "productName": "METRO FUSION TABLE",
             "productPrice": 2238.30,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/table.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/table.png",
             "review": 5
         },
         {
             "id": 4,
             "productName": "LUMIN DESK LAMP",
             "productPrice": 1477.80,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/lumin.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/lumin.png",
             "review": 5
         },
         {
             "id": 5,
             "productName": "TIMELESS EDGE HANGING CLOCK",
             "productPrice": 1071.6,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/timeless.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/timeless.png",
             "review": 4
         },
         {
             "id": 6,
             "productName": "ZENITH PENDANT LIGHT",
             "productPrice": 2069.59,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/light.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/light.png",
             "review": 3
         }
     ],
@@ -48,42 +48,42 @@
             "id": 7,
             "productName": "METRO FUSION TABLE",
             "productPrice": 2238.30,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/table.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/table.png",
             "review": 5
         },
         {
             "id": 8,
             "productName": "GRAY PENDANT LIGHT",
             "productPrice": 3500.50,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/gray-pendant-light.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/gray-pendant-light.png",
             "review": 5
         },
         {
             "id": 9,
             "productName": "SOFA SOFT",
             "productPrice": 7435.90,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/sofa-soft.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/sofa-soft.png",
             "review": 5
         },
         {
             "id": 10,
             "productName": "LINE CHANDELIER",
             "productPrice": 5000.00,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/line-chandelier.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/line-chandelier.png",
             "review": 4.9
         },
         {
             "id": 11,
             "productName": "ROTIN SOFA",
             "productPrice": 8435.20,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/rotin-sofa.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/rotin-sofa.png",
             "review": 5
         },
         {
             "id": 12,
             "productName": "TIMELESS EDGE HANGING CLOCK",
             "productPrice": 1071.6,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/timeless.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/timeless.png",
             "review": 4
         }
     ],
@@ -92,42 +92,42 @@
             "id": 13,
             "productName": "ANDES 2-SEAT SOFA",
             "productPrice": 9856.50,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/andes-2-seat-sofa.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/andes-2-seat-sofa.png",
             "review": 4.6
         },
         {
             "id": 14,
             "productName": "GATHER WOOD BASE SOFA",
             "productPrice": 7555.90,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/gather-wood-base-sofa.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/gather-wood-base-sofa.png",
             "review": 4.2
         },
         {
             "id": 15,
             "productName": "LEATHER SOFA",
             "productPrice": 4598.25,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/leather-sofa.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/leather-sofa.png",
             "review": 4.8
         },
         {
             "id": 16,
             "productName": "ROTIN SOFA",
             "productPrice": 8435.20,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/rotin-sofa.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/rotin-sofa.png",
             "review": 5
         },
         {
             "id": 17,
             "productName": "SOFA SOFT",
             "productPrice": 7435.90,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/sofa-soft.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/sofa-soft.png",
             "review": 5
         },
         {
             "id": 18,
             "productName": "STOCKHOLM SILVER SOFA",
             "productPrice": 6238.50,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/stockholm-slver-sofa-bed.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/stockholm-slver-sofa-bed.png",
             "review": 4.22
         }
     ],
@@ -136,42 +136,42 @@
             "id": 19,
             "productName": "BROWN PENDANT LAMP",
             "productPrice": 4546.40,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/brown-pendant-lamp.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/brown-pendant-lamp.png",
             "review": 5
         },
         {
             "id": 20,
             "productName": "LIGHTED EDISON BULB",
             "productPrice": 3874.28,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/lighted-edison-bulb.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/lighted-edison-bulb.png",
             "review": 4.4
         },
         {
             "id": 21,
             "productName": "LINE CHANDELIER",
             "productPrice": 5000.00,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/line-chandelier.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/line-chandelier.png",
             "review": 4.9
         },
         {
             "id": 22,
             "productName": "LIT PENDANT LIGHT",
             "productPrice": 3254.60,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/lit-pendant-light.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/lit-pendant-light.png",
             "review": 4.7
         },
         {
             "id": 23,
             "productName": "SHALLOW PENDANT LIGHT",
             "productPrice": 3978.40,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/shallow-pendant-light.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/shallow-pendant-light.png",
             "review": 4.6
         },
         {
             "id": 24,
             "productName": "GRAY PENDANT LIGHT",
             "productPrice": 3500.50,
-            "productImage": "https://raw.githubusercontent.com/olatunji-20/furnitur-api/master/gray-pendant-light.png",
+            "productImage": "https://contentionary-school.netlify.app/furnitur-images/gray-pendant-light.png",
             "review": 5
         }
     ],
